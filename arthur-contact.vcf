@@ -1,6 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Arthur Navasardian
+N:N.;Arthur;;;
+FN:Navasardian
 ORG:Route One Trailers
 TITLE:Sales Rep
 TEL;TYPE=WORK,VOICE:+17732708228
